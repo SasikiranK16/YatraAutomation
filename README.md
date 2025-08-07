@@ -1,7 +1,6 @@
 # 🚀 Yatra Task of Tech
 
-![Project Banner](https://via.placeholder.com/1200x400/1a202c/FFFFFF?text=Yatra+Task+of+Tech+🚀+with+Jatin+Bro&style=flat-square)
-
+![Yatra Task of Tech](https://via.placeholder.com/1200x400/2D3748/FFFFFF?text=Yatra+Task+of+Tech+with+Jatin+Bro)
 > An innovative tech project developed during our coding yatra (journey)
 
 ## 🌟 Features
