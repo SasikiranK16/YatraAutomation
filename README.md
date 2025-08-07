@@ -1,38 +1,33 @@
-# 🚀 Yatra Task of Tech
+# 🚀 Yatra Task of Tech - Automation Framework
 
-![Yatra Task of Tech](https://via.placeholder.com/1200x400/2D3748/FFFFFF?text=Yatra+Task+of+Tech+with+Jatin+Bro)
-> An innovative tech project developed during our coding yatra (journey)
+![Automation Banner](https://via.placeholder.com/1200x400/1a202c/FFFFFF?text=Java+Selenium+TestNG+Automation+Framework&style=flat-square)
 
-## 🌟 Features
+> Robust test automation framework developed during our automation testing yatra (journey)
 
-- **Modern Tech Stack** - Built with cutting-edge technologies
-- **Collaborative Development** - Pair programming with Jatin bro
-- **Scalable Architecture** - Designed for future growth
-- **Awesome UI** - Beautiful user interfaces
+## 🌟 Key Features
+
+- **Selenium WebDriver** - Browser automation powerhouse
+- **TestNG** - Advanced test orchestration
+- **Page Object Model** - Maintainable design pattern
+- **Extent Reports** - Beautiful HTML reporting
+- **CI/CD Ready** - Jenkins/GitHub Actions integration
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
+  <img src="https://img.shields.io/badge/TestNG-%23D71A1A.svg?style=for-the-badge" alt="TestNG">
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
 </p>
 
-## 📸 Screenshots
-
-<div align="center">
-  <img src="https://via.placeholder.com/400x250/2D3748/FFFFFF?text=Main+Dashboard" width="30%" alt="Dashboard">
-  <img src="https://via.placeholder.com/400x250/2D3748/FFFFFF?text=Mobile+View" width="30%" alt="Mobile">
-  <img src="https://via.placeholder.com/400x250/2D3748/FFFFFF?text=Analytics" width="30%" alt="Analytics">
-</div>
-
-## 🧑‍💻 Development Journey
+## 📊 Framework Architecture
 
 ```mermaid
 graph TD
-    A[Ideation] --> B[Planning]
-    B --> C[Coding Sessions]
-    C --> D[Testing]
-    D --> E[Deployment]
-    E --> F[Success Celebration]
+    A[Test Cases] --> B[Page Objects]
+    B --> C[Selenium WebDriver]
+    C --> D[TestNG]
+    D --> E[Extent Reports]
+    E --> F[(CI/CD Pipeline)]
